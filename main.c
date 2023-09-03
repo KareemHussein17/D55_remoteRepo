@@ -4,8 +4,6 @@
 
 int main()
 {
-	
-	
-	printMyName();
+	printId();
 	return 0;
 }
