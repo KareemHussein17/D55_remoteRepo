@@ -6,6 +6,6 @@ int main()
 {
 	
 	
-	
+	printMyName();
 	return 0;
 }
