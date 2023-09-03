@@ -4,6 +4,5 @@
 
 int main()
 {
-	printId();
 	return 0;
 }
